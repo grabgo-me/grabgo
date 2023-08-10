@@ -28,8 +28,8 @@ hero:
 features:
   - title: Seamless 💨
     details: With GrabGo, your downloads become effortless and uninterrupted.
-  - title: Swift 
+  - title: Swift 💫
     details: Experience lightning-fast download speeds with GrabGo.
-  - title: Smart
+  - title: Smart 📂
     details: It also categorizes and organizes your downloads smartly, making it easy to find and manage your downloaded files.
 ---
