@@ -1,7 +1,9 @@
 export default ({
+  
   title: "⌯grabgo",
   description: "a smart download manager",
   themeConfig: {
+    base: '/home/',
     // https://vitepress.dev/reference/default-theme-config
     // nav: [
     //   { text: 'home', link: '/' },
