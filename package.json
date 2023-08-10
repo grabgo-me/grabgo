@@ -6,5 +6,9 @@
   },
   "devDependencies": {
     "vitepress": "^1.0.0-rc.4"
+  },
+  "dependencies": {
+    "open-props": "^1.5.11",
+    "postcss-jit-props": "^1.0.13"
   }
 }
